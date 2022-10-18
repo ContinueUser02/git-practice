@@ -1,0 +1,12 @@
+total 24K
+-rw-r--r-- 1 Jae Hoon 197121 1.6K Oct 18 19:32 README.md
+-rwxr-xr-x 1 Jae Hoon 197121  14K Oct 18 19:44 backup_module.py*
+-rwxr-xr-x 1 Jae Hoon 197121  677 Oct 18 19:41 classification_experiment.py*
+-rw-r--r-- 1 Jae Hoon 197121    0 Oct 18 19:59 file_list.txt
+drwxr-xr-x 1 Jae Hoon 197121    0 Oct 18 19:45 nil/
+total 25K
+-rw-r--r-- 1 Jae Hoon 197121 1.6K Oct 18 19:32 README.md
+-rwxr-xr-x 1 Jae Hoon 197121  14K Oct 18 19:44 backup_module.py*
+-rwxr-xr-x 1 Jae Hoon 197121  677 Oct 18 19:41 classification_experiment.py*
+-rw-r--r-- 1 Jae Hoon 197121  322 Oct 18 19:59 file_list.txt
+drwxr-xr-x 1 Jae Hoon 197121    0 Oct 18 19:45 nil/
